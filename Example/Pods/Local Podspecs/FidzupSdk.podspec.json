@@ -1,0 +1,22 @@
+{
+  "name": "FidzupSdk",
+  "version": "0.1.0",
+  "summary": "A short description of FidzupSdk.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/molory/FidzupSdk",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "molory": "marc.olory.togbe@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/molory/FidzupSdk.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FidzupSdk/Classes/**/*"
+}

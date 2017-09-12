@@ -1,0 +1,6 @@
+framework module Pods_FidzupSdk_Tests {
+  umbrella header "Pods-FidzupSdk_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

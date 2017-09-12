@@ -1,0 +1,6 @@
+framework module FidzupSdk {
+  umbrella header "FidzupSdk-umbrella.h"
+
+  export *
+  module * { export * }
+}
